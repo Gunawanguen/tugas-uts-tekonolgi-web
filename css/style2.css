@@ -1,0 +1,91 @@
+/* reset css */
+
+main, aside ,form{
+border: 1px solid grey; margin: 5px; padding: 5px;
+}
+header{
+	border: 3px solid cyan;  padding: 3px;
+	background-color: black;
+}
+main{
+float: left;
+width: 60%;
+}
+.kon{
+	font-size: 20px;
+	
+	
+}
+.tk{
+	float: left;
+	width: 50%;
+	margin: 10px;
+}
+aside{
+float: left;
+width:30%;
+}
+.ar{
+color: green;
+}
+header h1,h2{
+	margin: 20px 10px;
+	color: white
+	;
+}
+body{
+	background-color: #B4F3E0;
+
+}
+
+nav {
+	padding: 20px;
+	display: block;
+	background-color:#03F271 ;
+	border: 3px solid black;
+	 font-size: 25px;
+
+
+}
+
+.htm{
+	width: 300px; 
+	width: 300px;   
+	  float:left;
+	   margin:0 8px 4px 0;
+	
+	
+	}
+footer{
+	clear:both;
+	background-color: #1d1d1d ;
+	padding: 2px;
+	color:#eeeeee ;
+	text-align: center;
+}
+main{
+	background-color:  black;
+}
+.tik{
+	color: black;
+}
+.par{
+ text-align:justify;
+ color: white;
+}
+
+.pro{
+	float: left;
+	margin: 20px;
+	padding: 20px;
+	border :3px;
+	color: #0C0101;
+	border: 2px solid black;
+}
+.data{
+  border: 2px solid black;
+  width: 60%;
+  height: 300px;
+ float: right;
+ background-color: #1D9AE1;
+}
